@@ -17,6 +17,7 @@ Research Interests
 - Data assimilation
 
 Current research highlights
+======
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
