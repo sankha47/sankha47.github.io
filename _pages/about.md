@@ -23,7 +23,7 @@ Current research highlights
 
 Publications
 ======
-1. Chakraborty, S., Pattnaik, S., Banerjee, A., & Chakraborty, T. (2025). Investigation of the contrasting influence of air–sea interactions on the intensification process of pre‐ and post‐monsoon tropical cyclones over the Bay of Bengal in a coupled model framework. Quarterly Journal of the Royal Meteorological Society. [https://doi.org/10.1002/qj.4957]
+1. Chakraborty, S., Pattnaik, S., Banerjee, A., & Chakraborty, T. (2025). Investigation of the contrasting influence of air–sea interactions on the intensification process of pre‐ and post‐monsoon tropical cyclones over the Bay of Bengal in a coupled model framework. Quarterly Journal of the Royal Meteorological Society. [https://doi.org/10.1002/qj.4957] (https://doi.org/10.1002/qj.4957)
 2. Chakraborty, S., Goswami, N., Pattnaik, S., & Kannan, B. a. M. (2025). Analyzing the complexity of tropical cyclone landfall dynamics through the integration of radar data. Dynamics of Atmospheres and Oceans, 101575. [https://doi.org/10.1016/j.dynatmoce.2025.101575]
 3. Chakraborty, S., Pattnaik, S. & Kannan, B.A.M. (2025). Sensitivity of radar data on landfall processes of tropical cyclones in the Bay of Bengal. Nat Hazards 121, 4531–4557. [https://doi.org/10.1007/s11069-024-06977-4]
 4. Trivedi, D., Pattnaik, S., Chakraborty, T. et al. Influence of aerosols on tropical cyclone dynamics during landfall over Indian region. Nat Hazards 121, 7149–7171 (2025). [https://doi.org/10.1007/s11069-024-07084-0]
