@@ -19,7 +19,7 @@ Research Interests
 Current research highlights
 ======
 
-![Editing a Markdown file for a talk](/images/qj_review.jpg)
+![Editing a Markdown file for a talk](/images/qj_merged.jpg)
 
 Current research highlights
 ======
