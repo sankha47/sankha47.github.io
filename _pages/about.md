@@ -18,8 +18,8 @@ Research Interests
 
 Current research highlights
 ======
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+
+![Editing a Markdown file for a talk](/images/qj_review.png)
 
 Current research highlights
 ======
