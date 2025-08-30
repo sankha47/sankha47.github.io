@@ -24,7 +24,7 @@ Skills
 * Matlab
 * NCL
 * High performance computing
-* 
+
 Work experience
 ======
 * September 2022 – December 2022: Intern Meteorologist
@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
