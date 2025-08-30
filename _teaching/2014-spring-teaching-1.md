@@ -11,7 +11,9 @@ location: "Odisha, India"
 
 Weather chart interpretation
 ======
+
 Global model forecasts visualization 
 ======
+
 Python, Matlab
 ======
