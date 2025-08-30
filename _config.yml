@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-6580-6607"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Sankhasubhra-Chakraborty-2"
   scopus           : # URL
 
   # Repositories and software development
