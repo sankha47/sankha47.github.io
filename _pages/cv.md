@@ -14,19 +14,19 @@ Education
 * Ph.D in Atmospheric and Ocean Sciences, Indian Institute of Technology Bhubaneswar, 2023-Present
 * M.Sc. in Atmospheric Science, University of Calcutta, 2021
 * B.Sc. in Physics, University of Calcutta, 2019
-
+  
+Skills
+======
+* Numerical weather modeling
+  * Weather Research and Forecast Model (WRF)
+  * Coupled-Ocean-Atmosphere-Wave-Sediment Transport Model(COAWST)
+* Pyhon
+* Matlab
+* NCL
+* High performance computing
+* 
 Work experience
 ======
-* Intern Meteorologist
-Climate Connect Digital
-Remote, India
-September 2022 – December 2022
-Climate Research Intern
-Centre for Climate Research & Studies
-South Asian Institute for Advanced Research and Development
-Remote, India
-March 2022 – September 2022
-
 * September 2022 – December 2022: Intern Meteorologist
   * Climate Connect Digital
   * Remote, India
@@ -34,16 +34,6 @@ March 2022 – September 2022
 * March 2022 – September 2022: Climate Research Intern
   * Centre for Climate Research & Studies
   * South Asian Institute for Advanced Research and Development
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
