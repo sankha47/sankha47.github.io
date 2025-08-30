@@ -3,7 +3,7 @@ title: "Investigation of the contrasting influence of air--sea interactions on t
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-01-qj
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This work investigates the contrasting Influence of Air-Sea Interaction on Pre- and Post-Monsoon TC Intensification over the Bay of Bengal'
 date: 2025-01-01
 venue: 'Quarterly Journal of the Royal Meteorological Society'
 paperurl: 'https://doi.org/10.1002/qj.4957'
