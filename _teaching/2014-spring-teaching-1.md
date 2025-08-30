@@ -12,6 +12,9 @@ location: "Odisha, India"
 Weather chart interpretation
 ======
 
+Weather chart interpretation
+======
+
 Global model forecasts visualization
 ======
 
