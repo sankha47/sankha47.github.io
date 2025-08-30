@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric and Ocean Sciences, Indian Institute of Technology Bhubaneswar, 2023-Present
+* Ph.D (ongoing) in Atmospheric and Ocean Sciences, Indian Institute of Technology Bhubaneswar, 2023-Present
 * M.Sc. in Atmospheric Science, University of Calcutta, 2021
 * B.Sc. in Physics, University of Calcutta, 2019
   
