@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior research fellow at IIT Bhubaneswar; working on tropical cyclone intensification processes, eyewall dynamics and air-sea interaction with COAWST model
+I am a Senior research fellow at IIT Bhubaneswar; working tropical cyclone intensification processes and air-sea interaction using coupled
+atmospheric-ocean-wave coupled model (COAWST). I am interested particularly in tropical cyclone inner core
+evolution, asymmetric convection, intensity variability.
 
 Research Interests
 ======
