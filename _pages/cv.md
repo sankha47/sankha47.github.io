@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Atmospheric and Ocean Sciences, Indian Institute of Technology Bhubaneswar, 2023-Present
+* M.Sc. in Atmospheric Science, University of Calcutta, 2021
+* B.Sc. in Physics, University of Calcutta, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Intern Meteorologist
+Climate Connect Digital
+Remote, India
+September 2022 – December 2022
+Climate Research Intern
+Centre for Climate Research & Studies
+South Asian Institute for Advanced Research and Development
+Remote, India
+March 2022 – September 2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2022 – December 2022: Intern Meteorologist
+  * Climate Connect Digital
+  * Remote, India
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2022 – September 2022: Climate Research Intern
+  * Centre for Climate Research & Studies
+  * South Asian Institute for Advanced Research and Development
+
   
 Skills
 ======
