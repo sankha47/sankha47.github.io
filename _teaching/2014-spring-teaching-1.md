@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "School of Earth Ocean and Climate Sciences, IIT Bhubaneswar"
-date: 2025
+#date: 2025
 location: "Odisha, India"
 ---
 
