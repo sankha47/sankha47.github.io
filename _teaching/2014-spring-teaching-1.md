@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Weather analysis and Forecasting Lab"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "School of Earth Ocean and Climate Sciences, IIT Bhubaneswar"
+#date: 2024-01-01
+location: "Odisha, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Weather chart interpretation
 ======
-
-Heading 2
+Global model forecasts visualization 
 ======
-
-Heading 3
+Python, Matlab
 ======
