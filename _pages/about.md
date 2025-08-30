@@ -21,7 +21,7 @@ Research Interests
 Current research highlights
 ======
 
-![Editing a Markdown file for a talk](/images/qj_merged.jpg)
+![Editing a Markdown file for a talk](/images/qj_merged.jpg){: width="400px"}
 
 Publications
 ======
